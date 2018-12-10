@@ -1,0 +1,35 @@
+.plus-minus-input {
+  color: #EB6864;
+  border-color: #EB6864;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.plus-minus-input .input-group-field {
+  color: #EB6864;
+  border-color: #EB6864;
+  border-style: solid;
+  border-radius: 0.25rem;
+  text-align: center;
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+  padding: 0.25rem;
+  outline-width: 0;
+}
+
+.plus-minus-input .input-group-field::-webkit-inner-spin-button,
+.plus-minus-input .input-group-field ::-webkit-outer-spin-button {
+  color: #EB6864;
+  border-color: #EB6864;
+  outline-width: 0;
+}
+
+.plus-minus-input .input-group-button .circle {
+  color: #EB6864;
+  border-color: #EB6864;
+  border-radius: 50%;
+  padding: 0.25em 0.8em;
+  outline-width: 0;
+}
+
